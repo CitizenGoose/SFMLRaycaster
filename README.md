@@ -8,3 +8,10 @@ Tambien tienen que pegar elos dll que vienen en bin... esos dll ya los pegue en 
 viejos no funcionan), borrar los dll y pegar los nuevos que vienen en la carpeta bin en la carpeta de 64/32 bits de SFML
 
 leer el comentario en el cpp
+
+
+===============22/4/2021====================
+
+Para los que busquen modulos para hacer un prototipo rapido: Dejo enlace a un raycaster que hace casi todo mejor(Tiene ya objetos, suelo y techo con texturas bien, etc), aunque va bastante mas lento en areas amplias con textura en suelo/techo y cae hasta los 20 FPS...
+
+https://github.com/lxndrdagreat/sfray
